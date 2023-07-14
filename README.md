@@ -17,3 +17,5 @@ This project uses Java's _regex_ package to look for patterns and match them wit
 * + – 1 or more repetitions of preceding
 * {x,y} – between x and y more repetitions of preceding 
 * ? – 0 or 1 repetition of preceding
+
+**FOR MORE REFERENCE, [FOLLOW THIS LINK](https://www.w3schools.com/java/java_regex.asp) **
